@@ -1,6 +1,5 @@
-// ini adalah library
 //salin kode ini lalu masukan ke vscode atau bisa di download
-#include <iostream>
+#include <iostream> // ini adalah library
 using namespace std;
 
     main(){
